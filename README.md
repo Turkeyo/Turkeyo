@@ -1,7 +1,7 @@
-<div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=21F707&random=false&width=435&lines=Welcome++++(%5Eu%5E);Take+a+sit">
-  
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=3000&pause=1000&color=2B96C5&center=true&vCenter=true&random=false&width=435&lines=WELCOME;and+take+a+sit." alt="Typing SVG" /></a>
 </div>
-<div align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl1ZDkwNmkyaW5yeWYxMmQzNTliNnd2MnFvdDlqcnM5NjRodzR3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7qV3yswT0K8hi/giphy.gif" alt="gif">
+<br>
+<div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdkbmtram1sbDV1N3R4ZzBseGpkODFsZW5iMTIzNmJwN3d1OXN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="gif">
 </div>
