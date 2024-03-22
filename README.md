@@ -8,8 +8,7 @@
   </tr>
 </table>
 
-##  **Building projects with:**
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkeyo&theme=tokyonight)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=transparent)
 <p>
 
 
