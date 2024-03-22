@@ -10,6 +10,9 @@
 
 ![Jeff's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=tokyonight&bg_color=#0076ff#gh-dark-mode-only)
 
+![Jeff's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=vue&bg_color=#0076ff#gh-light-mode-only)
+
+
 
 
 
