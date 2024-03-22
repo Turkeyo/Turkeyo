@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=tokyonight)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=tokyonight&bg_color=#071542)
 <p>
 
 
