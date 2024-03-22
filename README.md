@@ -8,7 +8,8 @@
   </tr>
 </table>
 
-![Jeff's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=tokyonight#gh-dark-mode-only)]
-<p>
+![Jeff's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Turkeyo&show_icons=true&theme=tokyonight&bg_color=#0076ff#gh-dark-mode-only)
+
+
 
 
