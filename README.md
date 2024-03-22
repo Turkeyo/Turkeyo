@@ -9,7 +9,7 @@
 </table>
 
 ##  **Building projects with:**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkeyo)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkeyo&hide=contribs,prs)
 <p>
 
 
