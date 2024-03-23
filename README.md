@@ -1,6 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=3000&pause=1000&color=2B96C5&vCenter=true&random=false&width=435&lines=WELCOME;and+take+a+sit." alt="Typing SVG"/></a>
-<br clear="both">
-
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
