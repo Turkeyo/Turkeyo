@@ -55,4 +55,4 @@
 
 ###
 
-  <p style="background-color:#00FF00;">1</p>
+  <p background-color="#00FF00">1</p>
