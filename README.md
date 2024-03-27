@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<h2 align="left">👨 Social</h2>
+<h1 align="left">👨 Social</h1>
 
 ###
 
