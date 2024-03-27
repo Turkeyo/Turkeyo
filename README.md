@@ -1,6 +1,5 @@
 <a width="100%" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=3000&pause=1000&color=2B96C5&vCenter=true&random=false&width=435&lines=WELCOME;and+take+a+sit." alt="Typing SVG"/></a>
 
-<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -32,12 +31,13 @@
 
 <br clear="both">
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">👨 Social</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" height="" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </div>
 
 ###
