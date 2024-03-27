@@ -54,4 +54,77 @@
 <img src="https://raw.githubusercontent.com/Turkeyo/Turkeyo/output/snake.svg" alt="Snake animation" />
 
 ###
-<a href="https://discord.com/widget?id=888951307661115402&theme=dark"></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord个人介面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #36393f;
+            color: #fff;
+            padding: 20px;
+        }
+
+        .profile {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #2e3338;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+
+        .username {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .status {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        .button {
+            padding: 10px 20px;
+            background-color: #7289da;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .button:hover {
+            background-color: #677bc4;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img class="avatar" src="https://via.placeholder.com/100" alt="Avatar">
+        <div class="username">Your Discord Username</div>
+        <div class="status">Online</div>
+        <div class="description">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in massa in turpis blandit fringilla nec sit amet libero.
+        </div>
+        <a class="button" href="#">View Profile</a>
+    </div>
+</body>
+</html>
