@@ -55,4 +55,4 @@
 
 ###
 
-  <p float="right">1</p>
+  <p align="right">1</p>
