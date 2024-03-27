@@ -54,5 +54,6 @@
 <img src="https://raw.githubusercontent.com/Turkeyo/Turkeyo/output/snake.svg" alt="Snake animation" />
 
 ###
-
-  <p align="right">1</p>
+<table border="3px">
+  <td color="red">1</td>
+</table>
