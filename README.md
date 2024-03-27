@@ -55,6 +55,5 @@
 
 ###
 
-<table style="float: right; border: 3px;">
-  </td style="float: right"> 1</td>
-</table>
+<div style="float: right;">
+  <p style="background-color: red;">1</p>
