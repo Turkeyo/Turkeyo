@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Jeff and I'm a student, from Taiwan.</p>
+<p align="left">My name is Jeff and I'm a student from Taiwan.</p>
 
 ###
   <img align="right" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdkbmtram1sbDV1N3R4ZzBseGpkODFsZW5iMTIzNmJwN3d1OXN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif"/>
@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  ![Python img]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo")
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="20" />
