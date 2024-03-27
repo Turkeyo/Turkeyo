@@ -47,6 +47,4 @@
 <img src="https://raw.githubusercontent.com/Turkeyo/Turkeyo/output/snake.svg" alt="Snake animation" />
 
 ###
-<table border="3px">
-  <td color="red">1</td>
-</table>
+<a href="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white"></a>
