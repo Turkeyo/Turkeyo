@@ -55,5 +55,4 @@
 
 ###
 
-<div style="float: right;">
   <p style="background-color: red;">1</p>
