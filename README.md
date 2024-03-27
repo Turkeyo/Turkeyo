@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png " height="" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" height="" alt="instagram logo"  />
 </div>
 
 ###
@@ -47,4 +47,3 @@
 <img src="https://raw.githubusercontent.com/Turkeyo/Turkeyo/output/snake.svg" alt="Snake animation" />
 
 ###
-<a href="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white"></a>
