@@ -54,4 +54,4 @@
 <img src="https://raw.githubusercontent.com/Turkeyo/Turkeyo/output/snake.svg" alt="Snake animation" />
 
 ###
-[img](https://www.youtube.com/embed/dQw4w9WgXcQ)
+[img](https://discord.com/widget?id=888951307661115402&theme=dark)
