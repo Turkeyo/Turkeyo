@@ -55,6 +55,6 @@
 
 ###
 
-<table style="float: right;">
+<table style="float: right">
   </td> 1</td>
 </table>
